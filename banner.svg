@@ -1,0 +1,41 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="rgba(255,255,255,0.07)" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="220" fill="#12233a"/>
+  <rect width="1200" height="220" fill="url(#grid)"/>
+
+  <!-- corner register marks -->
+  <g stroke="#e8622c" stroke-width="2" fill="none">
+    <path d="M14,34 V14 H34"/>
+    <path d="M1186,186 V206 H1166"/>
+  </g>
+
+  <!-- top meta line -->
+  <text x="40" y="38" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="2" fill="#7f9cbd">SHEET 01 / PROFILE &#183; REV. 2026.09 &#183; ATLANTA, GA</text>
+  <line x1="40" y1="50" x2="1160" y2="50" stroke="rgba(255,255,255,0.18)" stroke-dasharray="2 4"/>
+
+  <!-- name -->
+  <text x="40" y="118" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-weight="700" font-size="46" letter-spacing="1" fill="#fdfdfb">GANESH REDDY PEESARI</text>
+
+  <!-- role -->
+  <text x="40" y="152" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#a9c3dd">
+    <tspan fill="#e8622c">// </tspan>DATA &amp; RISK ANALYST — FRAUD, KYC/AML &amp; SPORTSBOOK ANALYTICS
+  </text>
+
+  <!-- scale bar -->
+  <g transform="translate(40,178)" stroke="#7f9cbd" stroke-width="1">
+    <line x1="0" y1="8" x2="460" y2="8"/>
+    <line x1="0" y1="2" x2="0" y2="14"/>
+    <line x1="115" y1="4" x2="115" y2="12"/>
+    <line x1="230" y1="4" x2="230" y2="12"/>
+    <line x1="345" y1="4" x2="345" y2="12"/>
+    <line x1="460" y1="2" x2="460" y2="14"/>
+  </g>
+  <text x="40" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#7f9cbd">RAW LOGS</text>
+  <text x="150" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#7f9cbd">CLEAN &amp; SCORE</text>
+  <text x="275" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#7f9cbd">SEGMENT</text>
+  <text x="400" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#e8622c">DECISION</text>
+</svg>
