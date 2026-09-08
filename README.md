@@ -49,7 +49,7 @@ M.S. in Data Analytics at Indiana Wesleyan University (2026).
 
 ## Contact Sheet
 
-[![Portfolio]([https://img.shields.io/badge/Portfolio-17335A?style=flat-square&logo=githubpages&logoColor=E8622C)](https://ganeshreddy2851.github.io/Portfolio](https://claude.ai/code/artifact/1ca6a3a4-570f-4d13-b8dc-d3c080dd0c66))
+[![Portfolio](https://img.shields.io/badge/Portfolio-17335A?style=flat-square&logo=githubpages&logoColor=E8622C)](https://ganeshreddy2851.github.io/Portfolio)
 [![Notion](https://img.shields.io/badge/Case_Studies-17335A?style=flat-square&logo=notion&logoColor=E8622C)](https://app.notion.com/p/Data-Portfolio-1e3fc4aaea2f807eb1e8d078ecba9b33)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-17335A?style=flat-square&logo=linkedin&logoColor=E8622C)](https://www.linkedin.com/in/ganesh-reddy-peesari-27293527b/)
 [![Resume](https://img.shields.io/badge/Resume-17335A?style=flat-square&logo=googledrive&logoColor=E8622C)](https://drive.google.com/file/d/1c0yLBZXmix5Su1Pbn_wXIGKpbQdWb7ug/view?usp=drive_link)
