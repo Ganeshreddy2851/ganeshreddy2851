@@ -51,16 +51,6 @@ Finishing an M.S. in Data Analytics at Indiana Wesleyan University (2026). Start
 
 <br>
 
-## Field Metrics
-
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=ganeshreddy2851&show_icons=true&hide_border=true&bg_color=0F2038&title_color=E8622C&icon_color=E8622C&text_color=A9C3DD&hide=stars" alt="GitHub stats" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshreddy2851&layout=compact&hide_border=true&bg_color=0F2038&title_color=E8622C&text_color=A9C3DD" alt="Top languages" /></td>
-</tr>
-</table>
-
-<br>
 
 ## Contact Sheet
 
