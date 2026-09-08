@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ganeshreddy2851/ganeshreddy2851/main/assets/banner.svg" width="100%" alt="Ganesh Reddy Peesari — Data & Risk Analyst">
+  <img src="https://raw.githubusercontent.com/ganeshreddy2851/ganeshreddy2851/main/banner.svg" width="100%" alt="Ganesh Reddy Peesari — Data & Risk Analyst">
 </div>
 
 <br>
@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td width="180" valign="top">
-  <img src="https://raw.githubusercontent.com/ganeshreddy2851/ganeshreddy2851/main/assets/profile.jpg" width="160" alt="Ganesh Reddy Peesari">
+  <img src="https://raw.githubusercontent.com/ganeshreddy2851/ganeshreddy2851/main/profile.jpg" width="160" alt="Ganesh Reddy Peesari">
 </td>
 <td valign="top">
 
