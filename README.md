@@ -5,11 +5,6 @@
 <br>
 
 <table>
-<tr>
-<td width="180" valign="top">
-  <img src="https://raw.githubusercontent.com/ganeshreddy2851/ganeshreddy2851/main/profile.jpg" width="160" alt="Ganesh Reddy Peesari">
-</td>
-<td valign="top">
 
 I turn raw sportsbook and transaction logs into fraud signal, retention curves, and revenue reads. About a year on the compliance side of iGaming  KYC/AML review and fraud monitoring across FanDuel, PokerStars, Betfair, and Paddy Power at Flutter International  gave me a ground-level view of what "risky" actually looks like in the data. Now I build the SQL, Tableau, and Excel models that catch it earlier.
 
@@ -51,16 +46,6 @@ M.S. in Data Analytics at Indiana Wesleyan University (2026).
 
 <br>
 
-## Field Metrics
-
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=ganeshreddy2851&show_icons=true&hide_border=true&bg_color=0F2038&title_color=E8622C&icon_color=E8622C&text_color=A9C3DD&hide=stars" alt="GitHub stats" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshreddy2851&layout=compact&hide_border=true&bg_color=0F2038&title_color=E8622C&text_color=A9C3DD" alt="Top languages" /></td>
-</tr>
-</table>
-
-<br>
 
 ## Contact Sheet
 
