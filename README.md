@@ -15,7 +15,7 @@ I turn raw sportsbook and transaction logs into fraud signal, retention curves, 
 
 M.S. in Data Analytics at Indiana Wesleyan University (2026).
 
-**Open to:** Data / Risk / Fraud Analyst roles — iGaming, sports betting, fintech · Atlanta, GA
+**Open to:** Data / Risk / Fraud Analyst roles - iGaming, sports betting, fintech · Atlanta, GA
 
 </td>
 </tr>
